@@ -12,7 +12,7 @@ https://pluton-nfts.netlify.app/
 Direct Link of testnet opoensea
 https://testnets.opensea.io/assets/rinkeby/0x1370dd52d7a943c489d244bfcfc0d1e00d4edbcd/1
 
-**Deployed Contract Addresses (Rinkeby/Testnet):
+Deployed Contract Addresses (Rinkeby/Testnet):
 
 Pluton (Token) Contract Address:
 ``` 
